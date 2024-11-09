@@ -1,0 +1,15 @@
+config.json
+
+.env
+
+package-lock.json
+
+package.json
+./backend/package.json
+./backend/package-lock.json
+./frontend/package.json
+./frontend/package-look.json
+
+package-lock.json
+
+package.json
